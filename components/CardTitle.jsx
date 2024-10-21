@@ -11,14 +11,14 @@ export default function CardTitle({ titles, imageUrl }) {
         <div className='grid place-content-center w-full h-full bg-slate-900'>
           <Image 
             className='h-36' 
-            src={imageUrl} 
+            src={''} 
             width={600} 
-            height={600} 
-            alt={titles.title} 
-            priority 
+            height={600}
+            alt={''} 
+          
           />
         </div>
-        <h5 className='mt-1 text-xs'>{titles.title}</h5>
+        <h5 className='mt-1 text-xs'>{''}</h5>
       </main>
     </Link>
   );
