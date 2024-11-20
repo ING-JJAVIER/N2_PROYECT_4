@@ -1,6 +1,4 @@
 import React from 'react'
-import NavBar from '../components/NavBar'
-import Footer from '../components/Footer'
 import ContTitles from '../components/ContTitles'
 
 
@@ -9,16 +7,14 @@ export default function Home() {
     <>
  
 
-      <main className='w-full h-screen overflow-hidden'>
-        <NavBar />
-        <section className='w-full h-3/4'>
+      <main className='w-full h-full overflow-hidden'>
+        <section className='w-full'>
 
-          <article className='w-full h-full gap-2'>
+          <article className='w-full h-full'>
 
            <ContTitles/>
 
           </article>
-          <Footer />
         </section >
 
        

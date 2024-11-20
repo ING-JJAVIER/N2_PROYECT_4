@@ -6,7 +6,7 @@ export default function ContTitles() {
     return (
         <>
 
-            <div className='flex justify-center w-full'>
+            <div className='flex justify-center w-full mb-8'>
                 <div className='flex w-10/12'>
 
                     <div className='flex flex-col'>
