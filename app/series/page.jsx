@@ -1,5 +1,5 @@
 import React from 'react'
-import CardTitle from '../../components/CardTitle'
+import CardTitleS from '../../components/CardTitleS'
 
 export default function Series() {
   return (
@@ -7,7 +7,7 @@ export default function Series() {
     
       <section className='flex justify-center'>
         <article className='flex flex-wrap w-10/12 mt-5'>
-          <CardTitle />
+          <CardTitleS />
         </article>
       </section>
     </main>

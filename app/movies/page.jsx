@@ -1,19 +1,14 @@
 import React from 'react'
-import CardTitle from '../../components/CardTitle'
-import NavBar from '../../components/NavBar'
-import Footer from '../../components/Footer'
+import CardTitleM from '../../components/CardTitleM'
 
-export default function Series() {
+export default function Movie() {
   return (
     <main className='w-full h-full'>
-      <NavBar />
       <section className='flex justify-center'>
         <article className='flex flex-wrap w-10/12 mt-5'>
-          <CardTitle />
+          <CardTitleM />
         </article>
       </section>
-
-
     </main>
   )
 }
