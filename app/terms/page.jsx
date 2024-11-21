@@ -17,9 +17,9 @@ export default function Terms() {
                     <div>
                         <h3 className="font-bold text-lg">1. Definiciones</h3>
                         <p>
-                            <strong>"Servicio":</strong> Plataforma de streaming de video proporcionada por DEMO Streaming.<br />
-                            <strong>"Usuario":</strong> Persona que accede, navega o utiliza el Servicio.<br />
-                            <strong>"Contenido":</strong> Todo material audiovisual disponible en la plataforma, incluidos películas y series.
+                            <strong>&ldquo;Servicio&ldquo;:</strong> Plataforma de streaming de video proporcionada por DEMO Streaming.<br />
+                            <strong>&ldquo;Usuario&ldquo;:</strong> Persona que accede, navega o utiliza el Servicio.<br />
+                            <strong>&ldquo;Contenido&ldquo;:</strong> Todo material audiovisual disponible en la plataforma, incluidos películas y series.
                         </p>
                     </div>
 

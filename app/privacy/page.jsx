@@ -103,7 +103,7 @@ export default function Privacy() {
 
         <section className="my-6 space-y-4">
           <h2 className="text-2xl font-semibold text-gray-800">9. Cambios en la Política de Privacidad</h2>
-          <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Cualquier cambio será notificado a través de nuestra plataforma o por correo electrónico. La fecha de "Última Actualización" al inicio de este documento reflejará la versión más reciente.</p>
+          <p>Nos reservamos el derecho de actualizar esta política en cualquier momento. Cualquier cambio será notificado a través de nuestra plataforma o por correo electrónico. La fecha de &ldquo;Última Actualización&ldquo; al inicio de este documento reflejará la versión más reciente.</p>
         </section>
 
         <section className="my-6 space-y-4">

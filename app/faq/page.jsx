@@ -44,7 +44,7 @@ export default function FAQ() {
           <p>El contenido de DEMO Streaming está sujeto a acuerdos de licencia que varían según la región. Esto puede restringir la disponibilidad de ciertos títulos en tu ubicación.</p>
 
           <h2 className="text-2xl font-semibold text-gray-800">13. ¿Cómo puedo actualizar mis detalles de pago?</h2>
-          <p>Puedes actualizar tu información de pago accediendo a la configuración de tu cuenta y seleccionando "Métodos de pago".</p>
+          <p>Puedes actualizar tu información de pago accediendo a la configuración de tu cuenta y seleccionando &ldquo;Métodos de pago&ldquo;.</p>
 
           <h2 className="text-2xl font-semibold text-gray-800">14. ¿Por qué mi cuenta fue suspendida?</h2>
           <p>Tu cuenta puede ser suspendida si infringe nuestros términos de servicio, como el uso de una tarjeta de crédito fraudulenta o compartir tu cuenta de manera inapropiada. Si tienes preguntas sobre la suspensión, contáctanos.</p>
@@ -56,7 +56,7 @@ export default function FAQ() {
           <p>La calidad del video depende de la velocidad de tu conexión a internet. Si experimentas problemas de calidad, verifica tu conexión y ajusta la configuración de video en tu cuenta o en las opciones de reproducción.</p>
 
           <h2 className="text-2xl font-semibold text-gray-800">17. ¿DEMO Streaming tiene control parental?</h2>
-          <p>Sí, ofrecemos controles parentales para que puedas restringir el acceso a contenidos según la clasificación por edad. Puedes configurarlo desde la sección de "Configuración de cuenta".</p>
+          <p>Sí, ofrecemos controles parentales para que puedas restringir el acceso a contenidos según la clasificación por edad. Puedes configurarlo desde la sección de &ldquo;Configuración de cuenta&ldquo;.</p>
 
           <h2 className="text-2xl font-semibold text-gray-800">18. ¿Qué debo hacer si tengo problemas técnicos con la plataforma?</h2>
           <p>Si experimentas problemas técnicos, intenta reiniciar la aplicación o el dispositivo. Si el problema persiste, consulta nuestra sección de ayuda en línea o contacta con nuestro soporte técnico.</p>
@@ -65,7 +65,7 @@ export default function FAQ() {
           <p>Sí, puedes recomendar películas y series a través de tus redes sociales o mediante las funciones de la plataforma, si están disponibles en tu región.</p>
 
           <h2 className="text-2xl font-semibold text-gray-800">20. ¿Cómo puedo contactarme con el soporte de DEMO Streaming?</h2>
-          <p>Puedes ponerte en contacto con nuestro equipo de soporte a través de la sección "Contacto" en nuestra página web o enviando un correo electrónico a contacto@demostreaming.com. Estamos disponibles de lunes a viernes de 9:00 AM a 6:00 PM.</p>
+          <p>Puedes ponerte en contacto con nuestro equipo de soporte a través de la sección &ldquo;Contacto&ldquo; en nuestra página web o enviando un correo electrónico a contacto@demostreaming.com. Estamos disponibles de lunes a viernes de 9:00 AM a 6:00 PM.</p>
         </section>
       </div>
     </div>
